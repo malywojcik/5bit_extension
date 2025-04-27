@@ -7,21 +7,21 @@
 void Funkcja1() {
 
     //...
-    narzuconaV1();
+
     SDL_UpdateWindowSurface(window);
 }
 
 void Funkcja2() {
 
     //...
-    narzuconaV2();
+
     SDL_UpdateWindowSurface(window);
 }
 
 void Funkcja3() {
 
     //...
-    narzuconaSzary(2);
+
     SDL_UpdateWindowSurface(window);
 }
 

@@ -17,5 +17,7 @@ extern int ileKolorow;
 
 extern SDL_Color paleta8k[256];
 extern SDL_Color paleta8s[256];
+extern SDL_Color paleta5k[32];
+extern SDL_Color paleta5s[32];
 
 #endif // GK2025_ZMIENNE_H_INCLUDED
